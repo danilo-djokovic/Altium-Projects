@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator= NewDesignator=NE555P
+Change Component Designator: OldDesignator=Dugme1 NewDesignator=Dugme 1
+Change Component Designator: OldDesignator=Dugme2 NewDesignator=Dugme 2
+Change Component Designator: OldDesignator=Dugme3 NewDesignator=Dugme 3
+Change Net Name : Old Net Name=Net_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=Net_3 New Net Name=NetBazer_1
+Change Net Name : Old Net Name=Net_4 New Net Name=Net9V_1
+Change Net Name : Old Net Name=Net_5 New Net Name=NetC_2
+Change Net Name : Old Net Name=Net_7 New Net Name=NetD1_1
+Added Room: Name=Sintisajzer
