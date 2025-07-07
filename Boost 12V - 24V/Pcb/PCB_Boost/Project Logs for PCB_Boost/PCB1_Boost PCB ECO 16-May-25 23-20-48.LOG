@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetD1_1 Pin=D1-
-Removed Pin From Net: NetName=NetC3_2 Pin=D1-A
-Change Component Designator: OldDesignator=Vout NewDesignator=Vout_24V
-Add Pin To Net: Unknown Pin: Pin D1-1
-Add Pin To Net: Unknown Pin: Pin D1-2
-Added Room: Name=Schematic_Boost_12-24

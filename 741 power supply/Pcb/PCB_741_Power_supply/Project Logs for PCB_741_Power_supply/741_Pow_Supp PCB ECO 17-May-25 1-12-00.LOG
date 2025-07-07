@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=Dz-A
-Removed Pin From Net: NetName=NetDz_2 Pin=Dz-C
-Change Component Designator: OldDesignator=V1 NewDesignator=V1 +18V
-Change Component Designator: OldDesignator=V2 NewDesignator=V2 -9V
-Add Pin To Net: Unknown Pin: Pin Dz-1
-Add Pin To Net: Unknown Pin: Pin Dz-2
-Added Member To Class: ClassName=Schematic_741_power_supply Member=Component V1 +18V Vin+
-Added Member To Class: ClassName=Schematic_741_power_supply Member=Component V2 -9V Vin-
-Added Room: Name=Schematic_741_power_supply

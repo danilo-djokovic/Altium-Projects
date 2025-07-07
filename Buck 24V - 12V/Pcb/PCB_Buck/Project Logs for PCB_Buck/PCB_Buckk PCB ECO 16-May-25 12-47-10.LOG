@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=Q2 Old Footprint=TO127P254X732-3 New Footprint=TO92250P510H770-3
-Add Pin To Net: Unknown Pin: Pin D1-1
-Add Pin To Net: Unknown Pin: Pin D1-2
-Add Pin To Net: Unknown Pin: Pin D2-1
-Add Pin To Net: Unknown Pin: Pin D2-2
-Added Member To Class: ClassName=Schematic_Buck Member=Component Q1 2N2907
-Added Member To Class: ClassName=Schematic_Buck Member=Component Q2 BC547
-Added Room: Name=Schematic_Buck
